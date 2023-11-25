@@ -6,7 +6,7 @@
 
 ### Tech stack
 
-<img src='./icons/typescript.svg' height="50" width="50" /> <img src='./icons/logo-javascript.svg' height="50" width="50" /> <img src='./icons/nodejs-2.svg' height="50" width="50"/>  <img src='./icons/postgresql.svg' height="50" width="50"/>  <img src='./icons/prisma-3.svg' height="50" width="50"/>  <img src='./icons/fastify.svg' height="50" width="50"/>  <img src='./icons/react-2.svg' height="50" width="50"/>  <img src='./icons/react-native-1.svg' height="50" width="50"/>  <img src='./icons/expo-1.svg' height="50" width="50"/>  <img src='./icons/html-1.svg' height="50" width="50"/>  <img src='./icons/css-3.svg' height="50" width="50"/> 
+<img src='./icons/typescript.svg' height="50" width="50" /> <img src='./icons/logo-javascript.svg' height="50" width="50" /> <img src='./icons/nodejs-2.svg' height="50" width="50"/>  <img src='./icons/postgresql.svg' height="50" width="50"/>  <div style="background-color: #000000"><img src='./icons/prisma-3.svg' height="50" width="50" /></div>  <img src='./icons/fastify.svg' height="50" width="50"/>  <img src='./icons/react-2.svg' height="50" width="50"/>  <img src='./icons/react-native-1.svg' height="50" width="50"/>  <img src='./icons/expo-1.svg' height="50" width="50"/>  <img src='./icons/html-1.svg' height="50" width="50"/>  <img src='./icons/css-3.svg' height="50" width="50"/> 
 
 ### Connect with me 
 
