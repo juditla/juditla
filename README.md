@@ -5,6 +5,7 @@ I am currently developing with TypeScript, Node.js, PostgreSQL, React Native/Exp
 
 ### Tech stack
 
+<img src='./icons/logo-javascript.svg' height="50" width="50" /> <img src='./icons/nodejs-1.svg' height="50" width="50"/>  <img src='./icons/postgresql.svg' height="50" width="50"/>  <img src='./icons/prisma.svg' height="50" width="50"/>  <img src='./icons/fastify.svg' height="50" width="50"/>  <img src='./icons/react-2.svg' height="50" width="50"/>  <img src='./icons/react-native.svg' height="50" width="50"/>  <img src='./icons/expo-1.svg' height="50" width="50"/>  <img src='./icons/html-1.svg' height="50" width="50"/>  <img src='./icons/postgresql.svg' height="50" width="50"/> 
 <!--
 **juditla/juditla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
