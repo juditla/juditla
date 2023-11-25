@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I enjoy untangling code puzzles and turning tech challenges into exciting journeys of discovery. 🧩
+I am currently developing with TypeScript, Node.js, PostgreSQL, React Native/Expo & Next.js, but always eagler to learn something new! 💡
+
+## Tech stack
+
 <!--
 **juditla/juditla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
