@@ -1,11 +1,16 @@
 ## Hi there 👋
 
-I enjoy untangling code puzzles and turning tech challenges into exciting journeys of discovery. 🧩
-I am currently developing with TypeScript, Node.js, PostgreSQL, React Native/Expo & Next.js, but always eagler to learn something new! 💡
+- based in Vienna 🎡
+- I enjoy untangling code puzzles and turning tech challenges into exciting journeys of discovery. 🧩
+- I am currently developing with TypeScript, Node.js, PostgreSQL, React Native/Expo & Next.js, but always eagler to learn something new! 💡
 
 ### Tech stack
 
-<img src='./icons/logo-javascript.svg' height="50" width="50" /> <img src='./icons/nodejs-1.svg' height="50" width="50"/>  <img src='./icons/postgresql.svg' height="50" width="50"/>  <img src='./icons/prisma.svg' height="50" width="50"/>  <img src='./icons/fastify.svg' height="50" width="50"/>  <img src='./icons/react-2.svg' height="50" width="50"/>  <img src='./icons/react-native.svg' height="50" width="50"/>  <img src='./icons/expo-1.svg' height="50" width="50"/>  <img src='./icons/html-1.svg' height="50" width="50"/>  <img src='./icons/postgresql.svg' height="50" width="50"/> 
+<img src='./icons/typescript.svg' height="50" width="50" /> <img src='./icons/logo-javascript.svg' height="50" width="50" /> <img src='./icons/nodejs-2.svg' height="50" width="50"/>  <img src='./icons/postgresql.svg' height="50" width="50"/>  <img src='./icons/prisma-3.svg' height="50" width="50"/>  <img src='./icons/fastify.svg' height="50" width="50"/>  <img src='./icons/react-2.svg' height="50" width="50"/>  <img src='./icons/react-native-1.svg' height="50" width="50"/>  <img src='./icons/expo-1.svg' height="50" width="50"/>  <img src='./icons/html-1.svg' height="50" width="50"/>  <img src='./icons/css-3.svg' height="50" width="50"/> 
+
+### Connect with me 
+
+<a href="https://www.linkedin.com/in/judit-langer-vie/"><img src='./icons/linkedin-icon-2.svg' height="50" width="50" /></a>
 <!--
 **juditla/juditla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
